@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.particles-bg-canvas-self {
+  opacity: 0.8;
+  position: fixed;
+  top:0;
+  right:0;
+  left:0;
+  bottom:0;
+  z-index: -1;
+}

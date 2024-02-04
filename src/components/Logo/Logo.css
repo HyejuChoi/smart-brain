@@ -1,0 +1,12 @@
+.Tilt {
+    height: 150px; 
+    width: 150px;
+    background-image: linear-gradient(to right, rgb(227 111 251 / 10%), rgb(0 188 212/ 80%));
+    background-image: -webkit-linear-gradient(to right, rgb(227 111 251 / 10%), rgb(0 188 212/ 80%));
+    background-image: -o-linear-gradient(to right, rgb(227 111 251 / 10%), rgb(0 188 212/ 80%));
+    background-image: -moz-linear-gradient(to right, rgb(227 111 251 / 10%), rgb(0 188 212/ 80%));
+}
+
+.Tilt-inner img {
+    width: 100%;
+}

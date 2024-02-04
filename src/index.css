@@ -1,0 +1,13 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Courier New', Courier, monospace;
+  background-image: linear-gradient(to right, rgb(227, 111, 251), rgb(0,188,212));
+  background-image: -webkit-linear-gradient(to right, rgb(227, 111, 251), rgb(0,188,212));
+  background-image: -o-linear-gradient(to right, rgb(227, 111, 251), rgb(0,188,212));
+  background-image: -moz-linear-gradient(to right, rgb(227, 111, 251), rgb(0,188,212));
+}
+
+button {
+  cursor: pointer;
+}
